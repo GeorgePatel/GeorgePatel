@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Leetcode challenges** and building my expertise in **React.js** and **Algorithms**
 
+- ⚡ I’m excited to continue growing my backend skills and applying it on fulfilling projects that make a difference in users' lives
+
 - 👨‍💻 All of my projects are available at [https://github.com/GeorgePatel/](https://github.com/GeorgePatel/)
 
 - 💬 Ask me about **Java**
