@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gunjan (also go by George)</h1>
 <h3 align="center">A passionate backend developer from Long Island, NY</h3>
 
-- 🔭 I’m currently working on **Leetcode challenges** and building my expertise in **React.js** and **Algorithms**
-
 - ⚡ I’m excited to continue growing my backend skills and applying it on fulfilling projects that make a difference in users' lives
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeorgePatel/](https://github.com/GeorgePatel/)
